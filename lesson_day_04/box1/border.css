@@ -1,0 +1,168 @@
+.blueviolet {
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+    border-color: blue;
+    border-radius: 50%;
+    border-width: 30px;
+    border-style: double;
+    padding: 50px;
+    margin: 150px;
+    margin-left: 600px;
+    margin: auto;
+}
+
+.Achitkhangai {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin: auto;
+    margin-top: 30px;
+    border-width: 10px;
+
+
+    border-right-style: solid;
+    border-right-color: brown;
+
+
+    border-left-style: double;
+    border-left-color: blue;
+
+
+    border-bottom-style: dotted;
+    border-bottom-color: hotpink;
+
+    border-top-style: dashed;
+    border-top-color: darkorchid;
+
+}
+
+.money {
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    height: 200px;
+    width: 300px;
+}
+
+.m {
+    margin: 20px;
+    padding: 10px;
+    border-color: blue;
+    border-style: solid;
+    width: 300px;
+    height: 200px;
+}
+
+.d {
+    margin: 10px;
+    padding: 20px;
+    border-color: aquamarine;
+    border-style: solid;
+    width: 300px;
+    height: 200px;
+}
+
+.A {
+    border-width: 200px;
+    padding: 20px;
+    border-style: solid;
+    border-color: crimson;
+    border-style: solid;
+    width: 300px;
+    height: 200px;
+}
+
+.QA {
+    margin: 10px;
+    padding: 20px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    width: 300px;
+    height: 200px;
+}
+
+.QA {
+    margin: 20px;
+    padding: 10px;
+    border-color: rgb(255, 0, 0);
+    border-style: solid;
+    width: 300px;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+.W {
+    margin: -20px;
+    border-color: rgb(235, 61, 101);
+    background-color: aqua;
+    border-style: solid;
+    width: 300px;
+    height: 200px;
+}
+
+.R {
+    padding: 80px;
+    background-color: black;
+}
+
+.G {
+    background-color: brown;
+    width: 400px;
+    height: 30px;
+    margin: 15px;
+}
+
+.P {
+    background-color: red;
+    width: 400px;
+    height: 50px;
+    margin: auto;
+    align-content: center;
+    
+}
+
+.D {
+    align-content: center;
+    background-color: blue;
+    width: 600px;
+    height: 80px;
+    margin: auto;
+    border-style: dashed;
+    border-color: grey ;
+    border-width: 7px;
+}
+.Q{
+    background-color: pink;
+    height: 125px;
+    width: 500px;
+    padding: 20px;
+}
+.O{
+    padding: 3px;
+    border-left: 1px solid black;
+    border-bottom:  1px solid black;
+
+}
+.F{
+    padding: 3px;
+    border-right: 1px solid black;
+    border-bottom:  1px solid black;
+    text-align: end;
+}
+.i{
+    padding: 3px;
+    border-left: 1px solid black;
+    border-bottom:  1px solid black;
+}
+.E{
+    padding: 3px;
+    border-right: 1px solid black;
+    border-bottom:  1px solid black;
+    text-align: end;
+}
+.V{
+    padding: 3px;
+    border-left: 1px solid black;
+    border-bottom:  1px solid black;
+}
